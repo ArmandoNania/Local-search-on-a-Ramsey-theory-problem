@@ -1,0 +1,141 @@
+Dimension: 4
+Vertex number: 16
+Combinations of 4 coplanar vertex: 100
+Number of constraints: 100
+Number of edges: 120
+Seed: 1543952499
+Found a counter-exemple for the Graham Problem, for n = 4
+red red blue blue blue red red blue red red red red red blue blue red blue blue blue red red red red red blue blue red blue red blue red red blue red red blue red blue blue blue blue red red red blue red blue blue blue red red red blue red blue blue red red blue blue red blue red blue red blue blue blue red red red red blue blue blue blue blue blue red blue red blue red red red red blue blue blue blue red red blue blue red blue red blue blue blue red red red red blue red blue blue red red blue red red red blue red blue blue red blue
+Done.
+
+Dimension: 4
+Vertex number: 16
+Combinations of 4 coplanar vertex: 100
+Number of constraints: 100
+Number of edges: 120
+Seed: 1543953395
+Found a counter-exemple for the Graham Problem!! (for n = 4)
+blue red blue red red blue blue blue red blue red blue blue blue blue blue blue red blue blue blue blue red red red red blue blue blue blue blue blue red blue blue red blue blue red red blue red red red red blue red red blue red red red red red blue blue blue blue blue blue red blue red blue blue red blue blue red red red red blue red blue red red blue red blue red blue red red red blue red blue blue blue blue red blue red blue red blue blue red red red red red blue blue red red red red blue red red red blue blue blue blue red blue red 
+Done.
+
+Dimension: 5
+Vertex number: 32
+Combinations of 4 coplanar vertex: 720
+Number of constraints: 720
+Number of edges: 496
+Seed: 1543953423
+Found a counter-exemple for the Graham Problem!! (for n = 5)
+blue blue blue red red blue red red red red blue red red blue red blue red red blue blue blue red blue blue red blue red blue blue red red blue red blue blue blue blue red red red blue blue red red blue blue red blue blue red blue red red blue red red red blue red red red blue red red blue red red red blue red blue blue red red red red red red red blue blue red red red red blue blue blue blue blue red blue blue blue red red blue blue red red red red red blue blue red red blue blue blue blue blue red red red red red blue red red blue red red blue blue blue red blue red red red blue blue red red red blue blue red blue red red blue blue blue blue red red blue red blue blue blue blue blue blue blue blue blue red blue blue blue red red red blue red blue red red blue blue red red blue red blue red red red blue red red blue blue red blue blue blue blue red blue blue blue red red red blue blue blue red red blue blue blue red blue blue red red blue red red red red red red red red red red blue red red blue blue blue red blue red blue red blue red red blue blue red blue red red blue blue blue blue blue red red red blue blue blue blue red blue blue red blue blue red red blue blue red red red red red red blue red blue blue red blue blue red blue red blue red red blue red blue blue red red red red blue blue red blue blue blue blue red blue red red red red blue blue red blue red blue blue red red red blue blue blue blue red red red red blue blue blue blue blue red blue red red red red blue blue blue blue red red blue red red red blue red red blue red blue blue blue red red blue red red red red blue red red red red blue red red red blue red blue blue blue blue red red red red red blue red red blue blue blue red blue blue blue red blue red blue blue blue blue red blue red red red blue red red blue red blue red blue blue red red red red red red blue red blue blue red blue blue red blue blue blue blue blue red red red red red red red blue red blue blue red red red blue red blue red red blue red blue red red blue blue blue blue blue blue red blue red blue red blue red red blue red red blue blue red red red blue blue blue red blue red red blue red red red red blue blue red red blue blue red red red red 
+Done.
+
+Dimension: 6
+Vertex number: 64
+Combinations of 4 coplanar vertex: 4816
+Number of constraints: 4816
+Number of edges: 2016
+Seed: 1543953434
+Found a counter-exemple for the Graham Problem!! (for n = 6)
+red red red blue red red blue blue red red red red blue red blue blue blue red red red red blue red blue blue red blue blue red red red blue red blue red blue blue red blue blue blue red blue blue blue blue red blue blue blue blue blue blue red blue blue blue blue blue red red red red red blue red red blue blue red red blue blue blue red blue red blue red blue blue blue red blue blue blue blue blue red red red red blue blue red blue blue red blue blue blue blue red blue blue blue blue blue blue blue red blue red red blue blue blue blue blue red red blue blue blue blue blue blue blue red blue red red red blue red red blue red blue red red blue blue red red blue red blue blue red red blue red red blue blue red blue blue blue red red red blue red blue red red red red red red red red blue red red red red blue blue blue blue blue red blue blue blue red blue blue blue red red blue red red blue red blue red blue blue blue blue blue blue red red red red red blue red red red red red blue blue blue blue blue blue blue blue red red blue blue blue red red blue blue red blue blue blue red red blue red red red blue red red blue red red blue red red blue red red red red blue blue red red red blue red blue blue red blue blue red blue red blue blue red red blue red blue blue red blue red red blue blue red blue blue red blue blue red blue red blue blue red blue blue blue red blue blue red red blue blue blue blue blue blue red red red blue red blue blue blue red blue blue red blue red red red blue blue red blue red red red blue blue red blue blue red blue blue blue red blue blue blue blue blue blue blue red blue red red blue red blue blue red blue red blue red blue blue red red red red blue red blue blue red blue blue red blue red blue blue blue blue blue red blue red blue red blue blue blue blue red blue blue blue red blue blue blue blue red blue red red blue blue blue red blue blue red red blue red red red red blue red red blue red blue blue red blue red red red red red red red blue red red red blue red red red blue blue red red blue red blue red blue red red blue red red red red red red red red blue blue red red blue blue blue red red red red blue blue red red blue blue blue red red blue red red red red blue blue blue red red blue blue blue red red blue red red red red blue red red blue blue blue blue red blue red blue blue blue red red red red red red red red blue red blue blue red blue blue red blue red red blue blue red red blue blue blue red red blue red blue red blue red blue red red red blue blue blue red red blue red red red red blue red red blue red blue blue red blue red red blue blue red red red blue blue blue red red blue blue blue red red blue red blue blue blue blue red blue blue blue blue blue red blue blue blue red blue red blue red blue red red red blue red red blue red red blue blue blue blue blue blue red red blue red red red red blue red red red red red red blue red blue red blue blue red blue blue blue blue blue blue red red blue red blue red blue blue red red red red blue blue blue red red red blue blue blue red red red blue red red blue red blue blue blue red red blue red blue blue red red blue red blue red red blue blue blue red blue red red blue blue blue blue red blue red blue blue red red red blue red blue blue red blue red blue blue red red red red red blue blue blue red red blue red blue red blue blue red blue blue red blue red red blue red red red red blue red blue blue blue red blue blue red blue red blue blue red red blue blue red blue blue blue blue red red red blue blue blue red red blue red red blue blue red red blue red red blue red red blue red red blue blue blue blue blue blue blue red blue red red blue blue blue red blue red blue blue red blue red red red blue red red blue red blue red red blue red red blue red red red blue red blue blue red blue red red red blue red blue blue blue red red red red blue red red red blue red red red blue blue red blue blue red red blue red blue blue red red blue red blue blue red blue blue blue red red red blue blue blue blue red red blue blue red red blue red red red red blue red red red blue red blue blue blue red blue red red blue red red blue red red red blue blue red blue blue blue red red red red blue red blue red red blue red blue blue red red red red red red blue blue red red red blue red blue red blue blue blue blue red red blue red red blue blue red red red red red blue blue blue red blue red red blue red blue blue red blue blue red blue blue red blue red blue blue blue blue red blue red blue blue blue red blue blue blue blue blue red red red red blue red blue blue red red blue red blue blue blue blue red blue blue blue blue red blue red red red blue blue red red red red blue red red blue blue red blue red blue red blue blue red blue red blue blue red blue red red blue red blue red blue blue red red red blue blue blue red blue red red red blue red red red blue blue red red blue blue blue blue red red blue blue blue blue red blue red blue blue red blue blue blue red red red blue red red red blue red blue blue blue blue blue blue red red blue red red blue red blue blue blue red blue red red blue red blue red red blue blue blue blue red red blue red red blue red blue red blue blue red red blue blue blue blue red red blue blue blue blue red red red blue red blue blue red red blue red blue red blue red red red red red blue blue red red blue blue blue red blue blue blue red red red blue red blue blue red blue red red blue red red red blue blue red red blue red blue red blue red red blue blue blue red blue red blue red red blue red blue blue red red blue red red blue blue blue red red blue red red red red red red blue blue red blue red red red red blue red blue blue red blue red blue blue blue red red red red red blue blue blue red red red red blue blue red blue blue blue red blue red blue red red blue blue red red blue blue blue blue red red red blue red red red red blue blue blue blue blue red red red red blue red blue blue blue red blue blue blue red blue blue red blue blue blue red blue red blue blue red blue blue red blue blue blue red red blue red blue red red blue blue red blue blue red red red blue red red red red red red red red blue blue red red red red red blue red blue blue red red red blue red red blue red blue red blue blue red red red blue red blue red blue red red red red blue blue blue red blue blue red red red blue red blue red red blue red red blue blue blue blue red blue red blue red red blue red blue blue red blue blue blue blue red red red blue blue blue red red red red red blue red red blue red blue blue blue blue blue red red red red red blue blue red red blue blue blue red red blue red blue blue blue red red red blue blue red blue blue blue blue red blue blue blue red blue red red red blue blue red red red blue blue red red blue red blue red blue red red blue blue red red blue blue blue blue blue blue red blue red red red red red blue blue blue red blue blue blue blue red blue red blue red red blue blue blue red blue blue red red blue red blue blue blue red red blue red red blue red blue blue red red red red blue red red red blue red red blue red red red blue blue red red red red blue blue blue blue red blue red red blue blue blue red red red red blue blue blue blue blue red red red blue red red red red red blue red blue blue red blue red red red red blue red blue red red blue blue red red blue blue red red red blue blue red blue red blue red red red blue red red blue red blue red blue blue red blue blue blue red blue red blue red red blue blue blue blue blue red blue red blue blue blue red red blue blue red red red red blue red blue red red blue red blue red red red red red blue red blue blue red blue red red blue blue blue blue blue red red red blue blue red red blue red red blue blue red blue blue blue blue red blue blue red red red blue red blue blue red red blue red blue blue blue blue blue blue red red red blue red blue red red red red blue red red red red blue blue red red red red blue blue blue red blue blue blue blue blue blue red red red blue red red red blue red red red red blue blue blue blue blue red blue red blue blue red blue blue red blue blue red red blue red blue red red red red blue blue blue red red red red blue red blue red blue blue red red blue blue red blue blue blue blue blue red blue blue red blue red red red red red red red blue red red red blue red blue red red red blue red blue red blue blue red blue red blue red red blue red red red blue red blue red red blue blue blue red red red red blue blue red blue red red red red red red blue blue red red blue red blue blue blue blue red blue red blue blue blue blue red red red red red red blue red red red blue blue red red blue blue red red red blue red red red red blue red red red blue red red red blue red blue red blue blue blue red red blue blue red blue blue blue red blue red red red blue blue red blue blue blue red blue red red red red blue blue blue blue blue blue blue blue blue blue red blue blue red red blue blue red blue blue red red red 
+Done.
+
+
+Dimension: 6
+Vertex number: 64
+Combinations of 4 coplanar vertex: 4816
+Number of constraints: 4816
+Number of edges: 2016
+Seed: 1544007902
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+9%
+10%
+11%
+12%
+13%
+14%
+15%
+16%
+17%
+18%
+19%
+20%
+21%
+22%
+23%
+24%
+25%
+26%
+27%
+28%
+29%
+30%
+31%
+32%
+33%
+34%
+35%
+36%
+37%
+38%
+39%
+40%
+41%
+42%
+43%
+44%
+45%
+46%
+47%
+48%
+49%
+50%
+51%
+52%
+53%
+54%
+55%
+56%
+57%
+58%
+59%
+60%
+61%
+62%
+63%
+64%
+65%
+66%
+67%
+68%
+69%
+70%
+71%
+72%
+73%
+74%
+75%
+76%
+77%
+78%
+79%
+80%
+81%
+82%
+83%
+84%
+85%
+86%
+87%
+88%
+89%
+90%
+Found a counter-exemple for the Graham Problem!!!
+blue red red blue red blue red blue blue red blue red red red blue blue blue red red red red blue red red blue blue blue red red red red red blue blue blue red red blue blue blue red blue red blue red blue red red red red red blue red blue red red blue red red red blue blue blue blue red red blue blue red blue blue blue red blue red blue blue blue red red red blue red red blue blue red blue red blue red blue blue blue red red red blue red red blue blue blue red blue red red blue red blue red blue red blue blue red blue blue blue red blue red red red red blue blue red blue blue blue red blue red blue blue blue red blue blue red red red blue red red blue red blue blue blue blue red blue red red blue red red blue red blue red red blue red red red blue red red blue blue blue blue red red blue blue red blue red red blue red blue red red red blue red red blue red blue red blue red red blue red blue red red red red red blue red blue red blue red red blue blue blue blue red blue blue blue red blue red red blue blue red red red red red blue red blue red blue red red blue blue blue red red blue red red blue blue red blue blue blue blue blue blue blue blue blue red blue blue red red blue red red blue blue red blue red blue blue blue red red red red blue blue red red red red red red blue red red red red red blue red red blue blue red blue blue red red red red red blue red red red red blue blue blue red red red red red red blue red red red red red blue red blue red blue blue red red red blue red red red red blue blue blue blue blue red blue blue blue red red blue blue blue blue blue blue blue red blue blue red red red red blue red blue blue red blue blue red blue red blue red red blue blue blue blue blue red blue blue red blue red blue red red blue blue blue red blue red red blue blue red red blue red blue blue blue red blue blue red red red blue red red red blue blue blue red red blue red red red red red blue blue red blue red red blue red red blue blue red red red red blue blue blue red red blue blue red red red red blue red blue blue blue blue blue red red red red red blue blue blue blue blue red red red red red red blue blue blue blue blue red blue blue blue red blue blue red red red blue blue red red blue red blue blue red blue red blue red red blue blue red red blue red red blue red red blue blue red blue red red blue red red blue red red blue red red red red blue red blue blue blue blue red blue red blue blue red red red red red red red blue blue red red blue blue blue red blue red red red blue blue blue blue blue blue red red blue blue red blue red blue blue blue red red red red blue red blue blue blue red red blue blue blue red red blue blue red blue red blue red red blue blue blue red blue blue red red blue blue blue blue blue blue blue blue red red blue blue blue red red blue red red blue blue red red blue red red red red red red blue blue red red blue red red blue red blue blue red blue blue red blue red red red red red red blue blue blue blue red red red blue blue red blue blue blue blue red blue blue red blue blue blue blue blue red blue red blue red red red red red red red red blue blue blue blue blue blue blue blue red blue blue blue blue red blue blue red red red blue red red blue red blue red blue red blue red red blue red red blue red red blue blue blue blue blue blue blue red red red blue blue red blue red blue blue red blue red blue red red red blue red blue blue red blue red red blue red red blue blue red red red red red red blue red blue blue red red blue blue red red red red blue red red blue red red red blue red red red blue red blue blue blue red red red red blue red red red blue red red blue red blue red red blue blue red red blue blue red red red blue red blue red red blue blue red red blue red red red red red red blue red red red blue red red red blue red red blue blue blue blue red red blue blue blue red blue blue blue blue red red blue blue red red red blue red blue red blue red blue blue blue red blue red red blue blue red red blue blue blue blue blue blue red red blue blue blue red blue red red red red blue red blue blue red red red red blue red blue blue blue red blue blue red blue blue red red red blue blue red blue blue blue blue blue red blue blue blue red red red blue red red red red red red blue red red red red red blue red red blue blue blue blue blue red blue red blue red blue blue blue red red blue blue blue blue red blue red red blue red blue blue red red red red red blue blue red blue red blue blue red red blue blue blue red red red blue blue red red red red red blue blue red blue blue blue red blue blue red blue red blue red red blue blue blue blue blue red red blue blue red blue blue red red red blue red red red red red blue blue red red blue red blue blue blue red blue red red blue red blue red red red red red red blue red blue blue blue red red blue blue red blue blue red blue red red blue blue blue blue red red blue blue red blue blue blue red red red red blue red red red blue blue red blue blue red blue red blue blue blue blue blue red red red blue red blue red red red red blue red blue red red red blue blue red red red red red red blue blue red red blue red blue blue blue red blue blue blue red red blue blue blue red blue red blue red blue red blue red blue red blue red red red blue red blue blue blue blue blue blue blue blue red red blue red red blue red red blue blue blue red red blue blue blue blue blue red red blue blue red red blue blue red blue red blue red blue red red red red red red blue blue red red blue red red blue red red red blue red red blue blue blue blue blue blue red red blue blue blue red red blue blue blue red red blue red blue blue blue red blue red red blue red blue red blue blue blue blue blue blue red blue blue red red red blue blue blue blue red red red blue blue red blue blue blue red red blue red red blue red red blue red blue blue red blue blue blue red red red red red red red blue blue red red blue blue blue blue red red red blue red red red blue red red blue red blue blue red blue blue blue red red blue red blue blue red blue blue red blue blue blue red red red blue blue blue red red red blue red blue blue blue red red blue red blue red red red blue blue red blue blue blue blue blue blue red red red red blue red red red blue red blue blue blue blue red red blue red red blue blue red red blue blue blue blue blue blue blue red red blue blue red blue blue blue red blue red red red red blue blue blue blue red blue blue blue red blue blue red blue red red blue red red blue red red red red red red blue red blue blue blue blue blue red blue blue blue blue red blue red red red blue blue blue blue blue red blue blue red red red blue blue blue red blue red red blue red red red red red blue blue blue blue red blue red blue blue red blue blue red blue red red blue red blue blue red red red red blue red red red blue blue red blue blue red red blue red blue blue red blue blue blue red blue blue blue blue red red red blue red red blue red blue red red red blue blue red blue red blue blue red red blue blue red blue blue blue blue red red red red blue blue red red blue blue red blue red blue red red blue red blue red red blue blue blue red red red red red red blue red blue blue blue red blue red blue blue red red red red red blue blue red red blue red red red red red blue blue red blue blue blue blue red red blue red blue blue blue blue red blue blue blue red red blue red red blue blue blue red red red blue red blue red blue blue blue blue red red blue blue red red blue red blue blue blue blue red red blue red blue blue red blue red blue red blue red red red red red red blue red blue blue blue red red red red red red blue red red red blue blue red blue red red blue red blue blue blue blue red red blue red red blue red blue red red red blue blue blue red blue blue blue blue blue blue red red red red red blue blue red blue blue blue blue blue red red red red red blue blue red blue blue blue red blue blue blue blue red blue blue blue blue blue red blue red blue red red blue red blue blue blue red red blue red red red red red blue blue red red blue blue blue red blue blue red red red red blue red blue red blue blue red blue red blue red blue red blue red blue red blue red blue red red blue red blue blue blue red red blue red red red red red red red blue red red red blue red blue blue blue red red blue blue blue red blue blue red blue red blue red blue blue blue blue red blue red red red red blue blue blue red red red red red blue red red blue red blue red red blue red blue blue red red red red red red red blue blue blue red red blue blue blue red red red blue red blue red red red blue blue red blue blue red blue red blue blue red red red blue red blue blue red red red red red blue blue blue red red red blue blue blue blue blue red blue blue red red red red blue blue red blue blue blue blue blue red red red blue blue blue blue blue red blue red red red blue blue blue red blue blue blue red blue blue red blue red red blue red red blue red blue blue 
+Done.
