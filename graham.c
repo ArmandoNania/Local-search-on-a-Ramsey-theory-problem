@@ -14,6 +14,8 @@ int compute_monocromy_count(int **subgraphEdgesList, int fourCoplanarVerticesCou
 
 void hill_climbing(char coloredEdges[], int edgesCount, int **subgraphEdgesList, int fourCoplanarVerticesCount);
 
+void first_choice_hill_climbing(char coloredEdges[], int edgesCount, int **subgraphEdgesList, int fourCoplanarVerticesCount);
+
 int main(int argc, char *argv[]) { 
 	// INPUT CHECK
 	if (argc!=2) {
@@ -66,7 +68,7 @@ int main(int argc, char *argv[]) {
 	printf("Seed: %u\n", seed);
 
 	// MONOCROMY COUNT CALCULUS
-	hill_climbing(coloredEdges, edgesCount, subgraphEdgesList, fourCoplanarVerticesCount);
+	first_choice_hill_climbing(coloredEdges, edgesCount, subgraphEdgesList, fourCoplanarVerticesCount);
 
     // END
     for (i = 0; i < fourCoplanarVerticesCount; ++i) {
@@ -84,6 +86,7 @@ int compute_dimension(const char *argv) {
 		return -1;
 	}
 	int dimension = (int) arg;
+	return dimension;
 }
 
 int **compute_vertices(int verticesCount, int dimension) {
@@ -115,7 +118,6 @@ void compute_4_points(int verticesCount,
 			for (int i=0; i<3; i++) {
 				fourVertices[*fourVerticesIndex1][i] = fourVertices[*fourVerticesIndex1-1][i];
 			}
-
 		}
 		return;
 	}
@@ -246,7 +248,7 @@ int **compute_4_coplanar_points(int *fourCoplanarVerticesCount, int **vertices, 
 		}
 	}
 
-	// release the memory allocated & return
+	// release the allocated memory & return
 	free(flags);
     for (int i = 0; i < fourVerticesCount; ++i) {
         free(fourVertices[i]);
@@ -308,7 +310,6 @@ void hill_climbing(char coloredEdges[], int edgesCount, int **subgraphEdgesList,
 	int monocromyCount;
 	int bestChildIndex;
 	int bestChildScore;
-	int absolutBest = fourCoplanarVerticesCount + 1;
     bestChildIndex = 0;
 	for (int i=0; i<100; i++) {
 		bestChildScore = fourCoplanarVerticesCount + 1;
@@ -330,15 +331,48 @@ void hill_climbing(char coloredEdges[], int edgesCount, int **subgraphEdgesList,
 		    	bestChildScore = monocromyCount;
 		    	bestChildIndex = j;
 		    }
-			if (monocromyCount<absolutBest) {
-		    	absolutBest = monocromyCount;
-		    }
 			swtich_color(coloredEdges, j);
 		}
-		if (i<10) printf(" ");
-		printf("%i%%: %i\n", i+1, absolutBest);
+		if (i<9) printf(" ");
+		printf("%i%%: %i\n", i+1, bestChildScore);
 		swtich_color(coloredEdges, bestChildIndex);
 		prevChildIndex = bestChildIndex;
 	}
-  	printf("Counter-exemple not found. The coloring with the least number of\nsingle-coloured complete subgraphs had %i such subgraphs", absolutBest);
+  	printf("Counter-exemple not found. The coloring with the least number of\nsingle-coloured complete subgraphs had %i such subgraphs", bestChildScore);
+}
+
+void first_choice_hill_climbing(char coloredEdges[], int edgesCount, int **subgraphEdgesList, int fourCoplanarVerticesCount) {
+	int prevChildIndex = rand() % edgesCount;
+	int monocromyCount;
+	int childIndex;
+	int childScore;
+
+    monocromyCount = compute_monocromy_count(subgraphEdgesList, fourCoplanarVerticesCount, coloredEdges);
+	for (int i=0; i<100000; i++) {
+		childIndex = rand() % edgesCount;
+		if (childIndex==prevChildIndex) continue;
+		swtich_color(coloredEdges, childIndex);
+		childScore = compute_monocromy_count(subgraphEdgesList, fourCoplanarVerticesCount, coloredEdges);
+	    if (childScore == 0) {
+			printf("%i%%: Found a counter-exemple for the Graham Problem!!!\n", (i/1000)+1);
+	    	for (int j=0; j<edgesCount; j++) {
+	    		if (coloredEdges[j]) {
+	    			printf("red ");
+	    		} else {
+	    			printf("blue ");
+	    		}
+	    	}
+	    	return;
+	    } else if (monocromyCount<childScore) {
+	    	swtich_color(coloredEdges, childIndex);
+	    	childScore = monocromyCount;
+	    }
+	    monocromyCount = childScore;
+	    if ((i%1000)==0) {
+	    	int j = i/1000;
+			if (j<9) printf(" ");
+			printf("%i%%: %i\n", j+1, childScore);
+		}
+	}
+  	printf("Counter-exemple not found. The coloring with the least number of\nsingle-coloured complete subgraphs had %i such subgraphs", childScore);
 }
